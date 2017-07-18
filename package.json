@@ -59,7 +59,7 @@
     "wallaby-webpack": "^0.0.38",
     "watchify": "^3.7.0",
     "webpack": "^2.5.1",
-    "zone.js": "^0.8.11"
+    "zone.js": "^0.8.14"
   },
   "typings": "./index.d.ts",
   "repository": {

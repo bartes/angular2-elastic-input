@@ -54,7 +54,7 @@
     "rxjs": "^5.4.0",
     "semantic-release": "^6.3.2",
     "tsify": "^3.0.1",
-    "tslint": "^5.2.0",
+    "tslint": "^5.7.0",
     "typescript": "^2.3.2",
     "wallaby-webpack": "^0.0.38",
     "watchify": "^3.7.0",
